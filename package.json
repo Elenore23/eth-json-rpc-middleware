@@ -37,7 +37,7 @@
     "@types/bn.js": "^5.1.5",
     "bn.js": "^5.2.1",
     "klona": "^2.0.6",
-    "pify": "^5.0.0",
+    "pify": "^6.1.0",
     "safe-stable-stringify": "^2.4.3"
   },
   "devDependencies": {
